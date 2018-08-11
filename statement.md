@@ -1,24 +1,16 @@
-# Welcome!
+public class Hello 
 
-This Java template lets you get started quickly with a simple one-page playground.
+{//opens class 
 
-```java runnable
-// { autofold
-public class Main {
 
-public static void main(String[] args) {
-// }
+public static void main(String args[]) //main method 
 
-String message = "Hello World!";
-System.out.println(message);
+{ 
 
-//{ autofold
-}
+System.out.println("Hello world"); //prints words in brackets to the screen 
 
-}
-//}
-```
 
-# Advanced usage
+}//closes main method 
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Java template](https://tech.io/select-repo/385)
+
+}//closes the class 
